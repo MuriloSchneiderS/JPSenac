@@ -1,0 +1,1 @@
+/*Crie uma classe chamada ConversorMoedas que solicite ao usuário um valor em reais e a cotação do dólar. Converta o valor para dólares e exiba o resultado.​*/
